@@ -1,0 +1,16 @@
+.filter-bar{
+    display: flex;
+    width: 100%;
+    gap: 10px;
+}
+.filter-bar button{
+    background: transparent;
+    padding: 5px 30px 5px 30px;
+    border: 1px solid black;
+    border-radius: 30px;
+}
+.filter-bar button:hover{
+    background: black;
+    color: white;
+    cursor: pointer;
+}

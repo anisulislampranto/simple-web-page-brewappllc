@@ -1,5 +1,4 @@
 import React from 'react';
-import './Navbar.css';
 import varifyImage from '../../../images/varifyImage.png';
 
 const Navbar = () => {
